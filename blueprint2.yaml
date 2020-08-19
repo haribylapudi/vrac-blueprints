@@ -82,7 +82,7 @@ resources:
   Cloud_Network_1:
     type: Cloud.Network
     properties:
-      name: Default
+      name: NXT-VM
       networkType: existing
       constraints:
         - tag: '${"env:" + to_lower(input.environment)}'
