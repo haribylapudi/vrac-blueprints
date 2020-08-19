@@ -6,7 +6,7 @@ inputs:
     type: string
     enum:
       - AWS
-      - vSphere
+      - GEL-Dev-Project01
       - Azure
       - VMC
       - GCP
