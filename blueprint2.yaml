@@ -10,7 +10,7 @@ inputs:
       - Azure
       - VMC
       - GCP
-    default: vSphere
+    default: GEL-Dev-Project01
   sshKey:
     type: string
     maxLength: 500
